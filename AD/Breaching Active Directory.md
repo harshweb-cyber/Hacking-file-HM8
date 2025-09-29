@@ -1,11 +1,4 @@
-I can't apply a "filter" to the text to make it look attractive in a visual sense. However, I can format the information in a clear, organized, and easy-to-read manner using Markdown to make the content itself more appealing and digestible.
-
-
-
 \*\*\*
-
-
-
 \# Breaching Active Directory: An Overview 🛡️
 
 
